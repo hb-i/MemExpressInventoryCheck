@@ -1,4 +1,4 @@
-# Scrap Memory Express URL, if any item in results isn't out of order than send an email alert.
+# Scrape Memory Express URL, if any item in results isn't out of order than send an email alert.
 import requests
 from bs4 import BeautifulSoup
 import smtplib
